@@ -114,7 +114,7 @@ background-color: darkgray;
   <section id="welcome-section">
     <h1>Mikoui's Portfolio</h1>
     <p> "Picture Of Me In A Wedding"</p>
-    <img src="https://scontent.fosl4-2.fna.fbcdn.net/v/t1.0-9/64773215_2320585261341168_6888384088240029696_o.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=q1eWCCOMP7kAX9j7qGf&_nc_ht=scontent.fosl4-2.fna&oh=f311b6e8f852b17d6a60a66dfc262ecc&oe=5EDEF3E8" Width="200" height="200" 
+    <img src="https://scontent.fosl4-2.fna.fbcdn.net/v/t1.0-9/64773215_2320585261341168_6888384088240029696_o.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=q1eWCCOMP7kAX9j7qGf&_nc_ht=scontent.fosl4-2.fna&oh=f311b6e8f852b17d6a60a66dfc262ecc&oe=5EDEF3E8" Width="200" height="200"> 
          
          
          
